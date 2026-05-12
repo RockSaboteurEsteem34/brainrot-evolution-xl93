@@ -1,4 +1,4 @@
-#  
+#  stealth Script for rivals is the best rivals Script, featuring auto-heal and one-hit kill. Safe and powerful for all your needs.
 
 
 
